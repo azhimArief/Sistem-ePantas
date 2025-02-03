@@ -3,6 +3,15 @@
 ## Overview  
 SISTEM ePANTAS is an online application system designed to streamline the request, screening, and approval processes. It also facilitates systematic report generation for better data management.  
 
+## Specifications  
+- **Laravel Version**: 7.29  
+- **PHP Version**: ^7.2.5 | ^8.0  
+- **Database**: Compatible with MySQL
+- **Packages Used**:  
+  - `anhskohbo/no-captcha` (Google reCAPTCHA)  
+  - `dompdf/dompdf` (PDF generation)  
+  - `mews/captcha` (Image captcha)  
+  
 ## Features  
 - **Online Application**: Enables users to submit requests digitally.  
 - **Screening & Approval**: Simplifies the verification and approval process.  
