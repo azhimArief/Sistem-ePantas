@@ -1,0 +1,5 @@
+{
+    "require": {
+        "carlos-meneses/laravel-mpdf": "^2.1"
+    }
+}
